@@ -2,6 +2,6 @@
     "versionName": "v4.12.0",
     "build": "2026.08",
     "releaseDate": "2026-08-31",
-    "downloadUrl": "https://raw.githubusercontent.com/Dark-Mask/SoftwareUpdates/main/vendify/app-release.apk",
+    "downloadUrl": "https://raw.githubusercontent.com/Dark-Mask/SoftwareUpdates/main/vendify/apk-release.apk",
     "changelog": "Critical stability fixes and performance optimizations."
 }
