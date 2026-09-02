@@ -3,5 +3,5 @@
     "build": "1.1.0",
     "releaseDate": "2026-08-31",
     "downloadUrl": "https://raw.githubusercontent.com/Dark-Mask/SoftwareUpdates/main/vendify/app-release.apk",
-    "changelog": "Critical stability fixes and performance optimizations."
+    "changelog": "Base build version"
 }
