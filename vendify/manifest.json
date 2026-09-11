@@ -1,7 +1,7 @@
 {
-    "versionName": "v1.0.3",
-    "build": "1.0.3",
-    "releaseDate": "2026-09-10",
+    "versionName": "v1.0.4",
+    "build": "1.0.4",
+    "releaseDate": "2026-09-12",
     "downloadUrl": "https://raw.githubusercontent.com/Dark-Mask/SoftwareUpdates/main/vendify/app-release.apk",
-    "changelog": "Change overlay movable event flow"
+    "changelog": "Adjust pause limit to have unlimited option"
 }
