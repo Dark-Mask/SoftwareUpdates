@@ -1,7 +1,7 @@
 {
-    "versionName": "v1.0.5",
-    "build": "1.0.5",
-    "releaseDate": "2026-09-12",
+    "versionName": "v1.0.6",
+    "build": "1.0.6",
+    "releaseDate": "2026-09-13",
     "downloadUrl": "https://raw.githubusercontent.com/Dark-Mask/SoftwareUpdates/main/vendify/app-release.apk",
-    "changelog": "Automatic server discovery when connected to wifi"
+    "changelog": "Fix pause unlimited setting"
 }
