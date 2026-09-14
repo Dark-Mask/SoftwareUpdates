@@ -1,7 +1,7 @@
 {
-    "versionName": "v1.0.8",
-    "build": "1.0.8",
-    "releaseDate": "2026-09-14",
+    "versionName": "v1.0.9",
+    "build": "1.0.9",
+    "releaseDate": "2026-09-15",
     "downloadUrl": "https://raw.githubusercontent.com/Dark-Mask/SoftwareUpdates/main/vendify/app-release.apk",
-    "changelog": "Adjust client timeout on server connection"
+    "changelog": "Adjust client and server insert coin connection"
 }
