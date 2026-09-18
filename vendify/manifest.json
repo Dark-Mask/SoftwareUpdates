@@ -1,7 +1,7 @@
 {
-    "versionName": "v1.0.10",
-    "build": "1.0.10",
-    "releaseDate": "2026-09-16",
+    "versionName": "v1.1.0",
+    "build": "1.1.0",
+    "releaseDate": "2026-09-18",
     "downloadUrl": "https://raw.githubusercontent.com/Dark-Mask/SoftwareUpdates/main/vendify/app-release.apk",
-    "changelog": "Device policy adjusted disallow Playstore"
+    "changelog": "Automatic shutdown via accessibility service added"
 }
