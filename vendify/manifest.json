@@ -1,7 +1,7 @@
 {
-    "versionName": "v1.1.5",
-    "build": "1.1.5",
+    "versionName": "v1.1.6",
+    "build": "1.1.6",
     "releaseDate": "2026-09-22",
     "downloadUrl": "https://raw.githubusercontent.com/Dark-Mask/SoftwareUpdates/main/vendify/app-release.apk",
-    "changelog": "Fix database bug for not saving setting"
+    "changelog": "Fix auto shutdown gesture click not correct"
 }
