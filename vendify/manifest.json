@@ -1,7 +1,7 @@
 {
-    "versionName": "v1.1.8",
-    "build": "1.1.8",
-    "releaseDate": "2026-09-23",
+    "versionName": "v1.1.9",
+    "build": "1.1.9",
+    "releaseDate": "2026-09-25",
     "downloadUrl": "https://raw.githubusercontent.com/Dark-Mask/SoftwareUpdates/main/vendify/app-release.apk",
-    "changelog": "Move accessibility permission check to app settings"
+    "changelog": "Mini patch panel bubble button not showing"
 }
