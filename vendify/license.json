@@ -1,0 +1,14 @@
+{
+  "aabbcc": {
+    "expiration": "2027-10-10",
+    "status": "active"
+  },
+  "ccddee": {
+    "expiration": "2027-10-10",
+    "status": "active"
+  },
+  "ff1122": {
+    "expiration": "2026-12-31",
+    "status": "active"
+  }
+}
